@@ -1,0 +1,13 @@
+{
+    "configurations": [
+    {
+        "name": "Launch Chrome",
+        "request": "launch",
+        "type": "chrome",
+        "url": "http://localhost:8080",
+        "webRoot": "${workspaceFolder}",
+        "file": "${workspaceFolder}/Front End Projects/Learn Html/Introduction/index.html"
+        
+    }
+    ]
+}
